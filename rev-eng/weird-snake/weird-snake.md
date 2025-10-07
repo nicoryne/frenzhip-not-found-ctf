@@ -29,7 +29,7 @@ Reconstruct the actual snake.py file and run it to get the flag
 
 List tools or concepts used. For example:
 
-- https://www.geeksforgeeks.org/python/ (refresher on functions I can use and how they)
+- https://www.geeksforgeeks.org/python/ (refresher on functions I can use and how they work)
 
 
 ## 🛠️ Step-by-step Solution
