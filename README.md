@@ -43,7 +43,7 @@ You can view or copy the template here:
 |--------------|------|----------|
 | WildHats CTF | 2025 | `@ChimaRyder`, `@nicoryne`, `@`, `@Braiden93` |
 | TrendMicro University CTF | 2025 | `@ChimaRyder`, `@nicoryne`, `@jellatino`, `@`, `@Braiden93` |
-| Hack4Gov | 2025 | `@ChimaRyder`, `@nicoryne`, `@Braiden93`, `@` |
+| Hack4Gov | 2025 | `@ChimaRyder`, `@nicoryne`, `@Braiden93`, `@Kintoyyy` |
 
 
 ## 👥 Contributors & Team Members
@@ -57,12 +57,12 @@ You can view or copy the template here:
 | Dollison, Ray | `@` | Binary Exploitation |
 | Pila, Brian | `@Braiden93` | Forensics |
 | Porter, Nicolo | `@nicoryne` | Reverse Engineering |
-| Rato, Kent | `@` | Forensics |
+| Rato, Kent | `@Kintoyyy` | Forensics |
 
 
 ## ⚙️ Contributing
 
-1. Create a new markdown file under the correct folder (e.g., `web-exp/awesome-web-challenge.md`)
+1. Create a new markdown file or directory under the correct folder (e.g., `web-exp/awesome-web-challenge.md`)
 2. Follow the format in [`TEMPLATE.md`](./TEMPLATE.md)
 3. Commit and push your writeup to the repository
 4. Open a pull request if you’re collaborating with others
