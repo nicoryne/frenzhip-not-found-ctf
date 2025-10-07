@@ -41,8 +41,8 @@ You can view or copy the template here:
 
 | Competition | Year | Members |
 |--------------|------|----------|
-| WildHats CTF | 2025 | `@ChimaRyder`, `@nicoryne`, `@`, `@Braiden93` |
-| TrendMicro University CTF | 2025 | `@ChimaRyder`, `@nicoryne`, `@jellatino`, `@`, `@Braiden93` |
+| WildHats CTF | 2025 | `@ChimaRyder`, `@nicoryne`, `@DollieSon`, `@Braiden93` |
+| TrendMicro University CTF | 2025 | `@ChimaRyder`, `@nicoryne`, `@jellatino`, `@DollieSon`, `@Braiden93` |
 | Hack4Gov | 2025 | `@ChimaRyder`, `@nicoryne`, `@Braiden93`, `@Kintoyyy` |
 
 
@@ -54,7 +54,7 @@ You can view or copy the template here:
 |------|--------|-------------|
 | Repunte, Frenz | `@ChimaRyder` | Web / Forensics |
 | Cambarijan, Angel | `@jellatino` | Cryptography |
-| Dollison, Ray | `@` | Binary Exploitation |
+| Dollison, Ray | `@DollieSon` | Binary Exploitation |
 | Pila, Brian | `@Braiden93` | Forensics |
 | Porter, Nicolo | `@nicoryne` | Reverse Engineering |
 | Rato, Kent | `@Kintoyyy` | Forensics |
